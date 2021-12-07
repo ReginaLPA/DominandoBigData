@@ -1,4 +1,5 @@
 {
-    "ecl.launchConfiguration": "not found",
+   "ecl.forceProxySupport": true,
+    "ecl.launchConfiguration": "Trainingcluster",
     "ecl.targetCluster": {}
 }
