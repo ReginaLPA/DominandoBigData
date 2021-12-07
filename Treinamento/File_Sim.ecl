@@ -1,4 +1,4 @@
-EXPORT File_Property := MODULE
+EXPORT File_Sim := MODULE
 
    EXPORT Layout := RECORD
       STRING CONTADOR;
