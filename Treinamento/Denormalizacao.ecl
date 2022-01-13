@@ -10,7 +10,7 @@ LayoutVeh := RECORD
 END;
 
 
-LaoutPeople := RECORD
+LayoutPeople := RECORD
     unsigned8 id;
     string15 FirtName;
     string25  MiddleName;
