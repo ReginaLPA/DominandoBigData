@@ -1,6 +1,7 @@
 ParentRec := {INTEGER1 NameID, STRING20 Name};
 ParentTable := DATASET([{1,'Kevin'},{2,'Liz'},
                         {3,'Mr Nobody'},{4,'Anywhere'}], ParentRec);
+
 ChildRec := {INTEGER1 NameID, STRING20 Addr};
 ChildTable := DATASET([ {1,'10 Malt Lane'},{2,'10 Malt Lane'},
                         {2,'3 The cottages'},{4,'Here'},{4,'There'},
@@ -13,6 +14,8 @@ DenormedRec := RECORD
 //  ChildRec Children;   //alternative syntax
 END;
  
+
+
 DenormedRec ParentMove(ParentRec L) := TRANSFORM
   SELF.NumRows := 0;
   SELF.Children := [];
