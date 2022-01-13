@@ -14,5 +14,5 @@ r := RECORD
 END;
 
 d := DATASET('~class::rla::teste.xml',r,XML('Dataset/area'));
-
+sort(d,code);
 OUTPUT(d);
