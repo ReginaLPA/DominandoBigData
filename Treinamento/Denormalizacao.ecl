@@ -22,3 +22,5 @@ LayoutPeople := RECORD
 END;
 
 File_People := DATASET('~class::PeopleVeh',LayoutPeople,Thor);
+
+Output(File_People);

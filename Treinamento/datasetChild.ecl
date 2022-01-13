@@ -9,7 +9,7 @@ ParentRec := RECORD
     string20 address;  
     unsigned8 NumkIDS; 
     string20 postcode;  
-    DATASET(ChildRec)Children;//{MAXCOUNT(100)};    
+    DATASET(ChildRec) Children;//{MAXCOUNT(100)};    
 END;
 
 ParentTable := DATASET([{1,'10 Malt Lane',234,'13031605'},
@@ -24,8 +24,8 @@ ChildTable := DATASET([{1,'Kevin','Batista'},
                         {2,'Liz','Amorin'},
                         {3,'Mr Nobody','Araujo'},
                         {4,'Anywhere','Tavares'}], ChildRec);
-OUTPUT(ChildTable);
-OUTPUT(ParentTable);
+//OUTPUT(ChildTable);
+OUTPUT(ParentRec);
 
 
 
