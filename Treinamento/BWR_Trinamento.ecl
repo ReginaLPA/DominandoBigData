@@ -1,5 +1,5 @@
 //class::rlp::superfile
-IMPORT $,STD,DataPatterns;
+IMPORT $,STD;
 #WORKUNIT('name','BWR_Sim');
 
 Sim := $.File_Sim.File;
