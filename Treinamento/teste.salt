@@ -1,0 +1,6 @@
+﻿//SALT:  teste;
+
+MODULE:TrainingSALTXXX
+OPTIONS:-gh
+FILENAME:Sample
+FIELD:rcid:TYPE(UNSIGNED6):0,0

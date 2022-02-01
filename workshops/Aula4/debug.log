@@ -1,0 +1,117 @@
+[1129/212442.632:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/212442.692:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/212543.428:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/212643.759:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/212744.563:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/213850.683:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/213952.049:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/213952.049:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/214052.146:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/214152.654:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/214253.386:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/214957.284:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1129/215158.451:INFO:CONSOLE(1910)] "Invalid configuration:  ", source: http://54.215.2.79:8010/esp/files/dist/39.eclwatch.js (1910)
+[1130/030330.687:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030330.725:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030330.803:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030330.909:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030330.949:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030331.009:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030335.703:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030335.735:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030335.816:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030335.921:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030335.979:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030336.031:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030340.719:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030340.751:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030340.828:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030340.937:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030341.001:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030341.047:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/030355.140:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042855.015:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042858.795:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042858.854:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042900.022:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042904.800:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042905.034:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042910.024:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042910.057:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042915.667:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/042921.623:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073313.723:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073316.681:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073321.202:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073321.688:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073326.219:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/073326.710:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/081536.087:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/081541.099:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/081542.227:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/081542.700:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/095630.518:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/095635.543:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/095640.561:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1130/095643.357:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032005.788:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032017.572:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032022.578:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032027.585:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032032.590:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/032037.595:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074548.468:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074601.278:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074608.531:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074614.818:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074620.305:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074625.839:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074630.844:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1201/074635.850:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032240.688:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032245.880:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032250.259:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032251.064:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032255.265:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032256.070:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032300.271:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/032301.077:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/072954.934:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073000.083:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073002.055:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073002.073:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073005.090:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073007.061:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073007.080:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073010.096:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073021.589:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/073028.067:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/101227.100:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/101232.111:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104608.941:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104616.550:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104622.527:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104627.533:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104632.538:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104637.544:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104650.487:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104655.492:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104700.498:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104705.504:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104710.509:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104715.514:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104720.521:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/104728.341:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/222924.650:INFO:CONSOLE(375)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://54.215.2.79:8010/esp/files/dist/stub.eclwatch.js (375)
+[1202/224756.293:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224758.097:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224801.300:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224803.194:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224806.745:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224808.563:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224811.850:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224813.571:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224816.863:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224818.579:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224823.244:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1202/224823.587:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
